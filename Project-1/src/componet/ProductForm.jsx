@@ -54,7 +54,7 @@ function ProductForm() {
                                                 </div>
 
                                         </div>
-                                        : <div><Product data={Data} /></div>}
+                                        : <div className="w-full h-auto border"><Product data={Data} /></div>}
                         </div>
 
                 </div>
