@@ -1,4 +1,3 @@
-import './App.css'
 import SignLog from './SignLog'
 function App() {
 
